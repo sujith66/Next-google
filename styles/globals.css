@@ -4,6 +4,10 @@
 
 
 @layer components {
+
+  .btn{
+    @apply bg-[#D3D3D3];
+  }
   .link {
       @apply hover:underline cursor-pointer;
   }
